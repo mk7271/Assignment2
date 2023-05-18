@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class Subjects extends AppCompatActivity {
 
     Button b1,b2,b3,b4;
+    // this is the change from choiru
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

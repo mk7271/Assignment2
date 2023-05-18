@@ -6,7 +6,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class Subjects2 extends AppCompatActivity {
-
+    // this part is built to improve calendar view
     TextView t1,t2;
     Bundle er;
     String a;
