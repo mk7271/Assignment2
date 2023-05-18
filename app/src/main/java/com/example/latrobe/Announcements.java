@@ -21,6 +21,7 @@ public class Announcements extends AppCompatActivity {
     ArrayList<Model> list;
     DatabaseReference databaseReference;
     AnnounceAdapter adapter;
+]
 
 
     @Override
